@@ -10,3 +10,8 @@
 <br>
 
 ![Classe UML - Diagramme de cas d'utilisation       02](https://user-images.githubusercontent.com/83125801/184266064-184e1add-ac1d-47da-9813-556ac5fde47a.jpeg)
+
+<h3>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.Diagramme de séquence basique : </h3>
+<br>
+
+![Diagramme de séquence basique (2)](https://user-images.githubusercontent.com/83125801/184266177-d1f5738f-bed5-4e17-9c30-182d3d53655a.jpeg)
