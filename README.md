@@ -1,6 +1,6 @@
 # Gestion-CMD-LIV
 
-<h2> Modélisation UML : </h2>
+<h2> I. Modélisation UML </h2>
 <h3> Diagramme de classe : </h3>
 <br>
 
