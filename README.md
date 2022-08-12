@@ -6,7 +6,6 @@ Notre objectif était de réaliser cette application. Son écoute et ses conseil
 
 Notre objectif est de réaliser l’analyse à l’aide de schéma UML (notamment Diagramme de cas d'utilisation, Diagramme de séquence basique et diagramme de classe).
 
-Dans ce rapport nous allons d’exposer l’analyse de cette application, puis un manuel d’utilisation et enfin un manuel de la programmation.
 
 <h2> II. Fonctionnalité de l’application  </h2>
 
