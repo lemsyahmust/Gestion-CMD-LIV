@@ -8,7 +8,19 @@ Notre objectif est de réaliser l’analyse à l’aide de schéma UML (notammen
 
 Dans ce rapport nous allons d’exposer l’analyse de cette application, puis un manuel d’utilisation et enfin un manuel de la programmation.
 
-<h2> II. Modélisation UML </h2>
+<h2> II. Fonctionnalité de l’application  </h2>
+
+Notre application se compose de deux parties :
+La Première Partie C'est La Gestion Des Commandes : 
+Lorsqu'un client passe une commande, celle-ci sera réalisée par un agent dit “Commercial”. L’accès de ce dernier est limité exclusivement au profil du compte d'utilisateur et ne peut visionner que cette partie, sans avoir la possibilité d'ajouter de nouveaux produits. L’application limite son rôle à l’activité de vente des articles qui se trouvent dans  notre stock.
+Le détail de chaque commande se trouve dans la table "DETAIL_COMMANDE", et à chaque fois qu’on valide une commande, la quantité en stocks sera diminuée automatiquement dans la table "PRODUIT".
+
+La Deuxième Partie C'est La Gestion Des Livraisons :
+C’est la réception de la marchandise qui est livrée par le Fournisseur et qui sera traitée par un agent dit “  Vendeur ”. L’accès de ce dernier est limité exclusivement au profil du compte d'utilisateur et ne peut visionner que cette partie. Cependant, il a la possibilité d'ajouter de nouveaux produits livrés par le fournisseur, et le détail de chaque livraison se trouve dans la table "DETAIL_LIVRAISON", et à chaque fois qu’on valide une livraison, la quantité de stock sera augmentée automatiquement de la table "PRODUIT ".
+Les deux parties en question sont chapeautées par un troisième profil du compte d'utilisateur appelé “Administrateur”. Il a accès à l’ensemble des données de l’application (partie Gestion de Commande et Gestion Livraison).
+
+
+<h2> III. Modélisation UML </h2>
 
 <h3>    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.Diagramme de classe : </h3>
 <br>
