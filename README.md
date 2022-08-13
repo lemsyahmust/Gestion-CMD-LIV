@@ -18,6 +18,26 @@ Le détail de chaque commande se trouve dans la table "DETAIL_COMMANDE", et à c
 C’est la réception de la marchandise qui est livrée par le Fournisseur et qui sera traitée par un agent dit “  Vendeur ”. L’accès de ce dernier est limité exclusivement au profil du compte d'utilisateur et ne peut visionner que cette partie. Cependant, il a la possibilité d'ajouter de nouveaux produits livrés par le fournisseur, et le détail de chaque livraison se trouve dans la table "DETAIL_LIVRAISON", et à chaque fois qu’on valide une livraison, la quantité de stock sera augmentée automatiquement de la table "PRODUIT ".
 Les deux parties en question sont chapeautées par un troisième profil du compte d'utilisateur appelé “Administrateur”. Il a accès à l’ensemble des données de l’application (partie Gestion de Commande et Gestion Livraison).
 
+•	Développement de la partie Back-End : 
+Le développement back-end programme la partie cachée d’une solution, C# peuvent être déployées sur de multiples plates-formes comme Windows, UNIX, Linux, MacOS, et bien d’autres, peuvent tirer aussi une partie technique de codage orienté objet pour améliorer les tâches de codage grâce aux classes.
+
+•	Développement de la partie Front-End : 
+Le terme front-end désigne les éléments d'un site ou d'une application que les utilisateurs voient à l'écran et avec lesquels ils vont interagir. À titre d'exemple, tout ce que les internautes vont voir sur un site internet, c'est une combinaison de HTML, CSS et JavaScript. Ce sont ces langages de programmation front-end qui seront interprétés par le navigateur.
+Le HTML est le langage fondamental qui permet de créer et d'organiser le contenu web. C'est ce langage qui va permettre au contenu web d'être affiché sur un navigateur.
+Le CSS est un langage front-end qui vient compléter les fonctions du HTML. Il a pour rôle de définir le style du contenu du site internet : mise en page, couleurs, polices... 
+front-end va également utiliser JavaScript. Il s'agit d'un langage de programmation qui permet de rendre les pages web interactives, comme des menus déroulants et les formulaires de contact.
+
+•	Intégration des deux parties en RESTFUL API : 
+Une API REST (également appelée API RESTful) est une interface de programmation d'application (API ou API web) qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful. L'architecture REST (Representational State Transfer) a été créée par l'informaticien Roy Fielding.
+Une API est un ensemble de définitions et de protocoles qui facilite la création et l'intégration de logiciels d'applications.
+REST est un ensemble de contraintes architecturales. Il ne s'agit ni d'un protocole, ni d'une norme. Les développeurs d'API peuvent mettre en œuvre REST de nombreuses manières.
+
+•	Environnement de la base de données
+Notre choix pour Microsoft SQL Server  est justifié par sa compatibilité avec ADO.NET,
+En effet, Microsoft SQL Server  est un système de gestion de base de données (SGBD) en langage SQL.il est aussi un logiciel système servant à stocker, à manipuler ou gérer, et à partager des informations dans une base de données.
+
+
+
 
 <h2> III. Modélisation UML </h2>
 
