@@ -55,3 +55,9 @@ En effet, Microsoft SQL Server  est un système de gestion de base de données (
 <br>
 
 ![Diagramme de séquence basique (2)](https://user-images.githubusercontent.com/83125801/184266177-d1f5738f-bed5-4e17-9c30-182d3d53655a.jpeg)
+
+
+<h2> V. CONCLUSION  </h2>
+* A travers le développement de cette application, j'ai pu comprendre et expérimenter les différentes étapes de la conception d’un logiciel, en commençant par l’analyse avec la partie UML. 
+
+* De plus la programmation dans le cadre de ce projet m'a permis d’approfondir mes connaissances sur les differents outlis utiliser.
