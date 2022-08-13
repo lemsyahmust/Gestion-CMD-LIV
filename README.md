@@ -58,6 +58,8 @@ En effet, Microsoft SQL Server  est un système de gestion de base de données (
 
 
 <h2> V. CONCLUSION  </h2>
+
 * A travers le développement de cette application, j'ai pu comprendre et expérimenter les différentes étapes de la conception d’un logiciel, en commençant par l’analyse avec la partie UML. 
 
 * De plus la programmation dans le cadre de ce projet m'a permis d’approfondir mes connaissances sur les differents outlis utiliser.
+* En plus d’être qualifié de projet pédagogique, le développement de l’application Gestion de Commande/Livraison m'a été ludique, et m'a donné beaucoup de liberté et de simplicité dans la manipulation du code, et dans les tests d’expérimentation.
