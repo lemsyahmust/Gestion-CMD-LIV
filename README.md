@@ -2,7 +2,7 @@
 
 <h2> I. Introduction </h2>
 
-* Notre objectif était de réaliser cette application. Son écoute et ses conseils nous ont permis de bien comprendre la technologie ADO.NET qui est un ensemble de composants logiciels que les programmeurs peuvent utiliser pour accéder à des services de données à partir d' une base de données.
+* Notre objectif était de réaliser cette application. Son écoute et ses conseils nous ont permis de bien comprendre la technologie C# qui est un ensemble de composants logiciels que les programmeurs peuvent utiliser pour accéder à des services de données à partir d' une base de données.
 
 * Notre objectif est de réaliser l’analyse à l’aide de schéma UML (notamment Diagramme de cas d'utilisation, Diagramme de séquence basique et diagramme de classe).
 
